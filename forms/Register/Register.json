@@ -1,0 +1,119 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "https:/www.dhresource.com/0x0/f2/albu/g7/M00/7B/F0/rBVaSVtqooyAHlSNAAzlCqZgGtw772.jpg/wooden-floor-photography-backdrops-solid.jpg",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "inptSignUpUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "inptSignUpPass.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "inptVerify.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "lblInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "btnSign.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "btnBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "lblVerified.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "Header2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Register",
+        "Elements",
+        "Label1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "Register",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
